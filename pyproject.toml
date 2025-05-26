@@ -1,0 +1,9 @@
+[project]
+name = "web3-rag"
+version = "0.1.0"
+description = "web3 information RAG knowledge base"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pymupdf4llm>=0.0.24",
+]
